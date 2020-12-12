@@ -31,22 +31,22 @@
 ### gemotest
 具体检查项和价格可以看下图，其中PCR和IgM是大使馆要求的必检项，IgG可以不用检。**注意：gemotest的收费单必须跟检测报告一起上传，因为报告中是没有写静脉血的，而是写在了收费单中**
 
-![检查项](image/gemotest/invoice.jpg 检查项目收费单)
+![检查项](image/gemotest/invoice.jpg)
 
 gemotest会一起出两种检查报告，定性和定量的都会出，所以完全不用纠结。没问题的话申请绿码时全都上传上去就可以了。**一定要同时上传收费单**。
 
-![定量检查报告](image/gemotest/igmpcr_num.jpg 定量报告)
+![定量检查报告](image/gemotest/igmpcr_num.jpg)
 
-![定性检查报告](image/gemotest/igmpcr.jpg 定性报告)
+![定性检查报告](image/gemotest/igmpcr.jpg)
 
 ### fdoctor
 这家都懒得说了，具体看收费单和检查报告图片就知道了。报告只有定性结果。速度慢，价格几乎是gemotest的一倍。
 
 **注意：PCR和IgM的报告是两份分开的**
 
-![抗体报告](image/fdoctor/igmigg.jpg 检查项目收费单)
+![抗体报告](image/fdoctor/igmigg.jpg)
 
-![核酸报告](image/fdoctor/pcr_R.jpg 定性报告)
+![核酸报告](image/fdoctor/pcr_R.jpg)
 
 ## 机场值机
 值机过程没什么坑，而且速度比没有疫情的时候快多了，因为机场几乎没有什么人，到了机场满眼都是回国的中国人。如果手续齐全，半个小时值机、安检、通关就全结束了。所以也没必要去的太早，提前一个半小时到机场足够了。当然如果要退税还是要提前去办理，我没有要退税的东西，所以很快。据办理了退税的人传说，退税非常慢，一个小时两三个人的速度。
