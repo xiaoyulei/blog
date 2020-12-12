@@ -7,6 +7,6 @@ Just remember someting
 
 [Emacs](docs/subject/emacs/emacs.md)
 
-[git](docs/subject/emacs/git.md)
+[git](docs/subject/git/git.md)
 
-[docker](docs/subject/emacs/docker.md)
+[docker](docs/subject/docker/docker.md)
