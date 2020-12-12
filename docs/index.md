@@ -3,4 +3,4 @@
 Just remember someting
 
 ### Blog List
-[俄罗斯回国总结](backfromRu/backfromRu.md)
+[俄罗斯回国总结](docs/backfromRu/backfromRu.md)
