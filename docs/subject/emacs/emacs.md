@@ -1,4 +1,4 @@
-### 编译emacs
+## 编译emacs
 ```
 ./autogen.sh
 mkdir build
@@ -7,7 +7,7 @@ cd build
 make -sj
 make install
 ```
-#### 需要的包
+### 需要的包
 ```
 sudo apt install texinfo
 sudo apt install libxml2-dev
@@ -21,7 +21,7 @@ sudo apt install libtiff-dev
 
 ```sudo apt install libgnutls28-dev```
 
-### Emacs PPA添加
+## Emacs PPA添加
 ```
 sudo add-apt-repository -y ppa:ubuntu-elisp
 sudo apt-get update
