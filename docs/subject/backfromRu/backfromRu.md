@@ -35,9 +35,9 @@
 
 gemotest会一起出两种检查报告，定性和定量的都会出，所以完全不用纠结。没问题的话申请绿码时全都上传上去就可以了。**一定要同时上传收费单**。
 
-![定量检查报告](image/gemotest/IgM PCR n.jpg 定量报告)
+![定量检查报告](image/gemotest/igmpcr_num.jpg 定量报告)
 
-![定性检查报告](image/gemotest/IgM PCR.jpg 定性报告)
+![定性检查报告](image/gemotest/igmpcr.jpg 定性报告)
 
 ### fdoctor
 这家都懒得说了，具体看收费单和检查报告图片就知道了。报告只有定性结果。速度慢，价格几乎是gemotest的一倍。
