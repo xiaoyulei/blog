@@ -86,3 +86,6 @@ https://netmarketshare.com/
 
 # HostAdvice网络主机市场份额统计排名
 https://zh.hostadvice.com/marketshare/
+
+# 总部位于亚洲的全球性行业分析公司
+https://www.counterpointresearch.com/
