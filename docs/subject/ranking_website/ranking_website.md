@@ -89,3 +89,6 @@ https://zh.hostadvice.com/marketshare/
 
 # 总部位于亚洲的全球性行业分析公司
 https://www.counterpointresearch.com/
+
+# Statista是一个在线的统计数据门户。它提供了来自各主要市场、国家和民意调查的数据，其数据主要来自商业组织和政府机构。
+https://www.statista.com/
