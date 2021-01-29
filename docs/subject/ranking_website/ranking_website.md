@@ -31,7 +31,7 @@ https://www.doingbusiness.org/
 # 美世Mercer年全球城市生活成本排名
 https://www.mercer.com.cn/about-mercer.html
 
-# NUMBEO
+# NUMBEO生活成本排名
 https://www.numbeo.com/cost-of-living/
 
 # 办公成本（租金）世界排名
