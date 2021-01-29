@@ -80,3 +80,9 @@ https://raex-a.ru/
 
 # stackoverflow开发者调查
 https://insights.stackoverflow.com/
+
+# 市场份额统计排名
+https://netmarketshare.com/
+
+# HostAdvice网络主机市场份额统计排名
+https://zh.hostadvice.com/marketshare/
