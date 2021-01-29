@@ -81,7 +81,7 @@ https://raex-a.ru/
 # stackoverflow开发者调查
 https://insights.stackoverflow.com/
 
-# 市场份额统计排名
+# 市场份额统计排名（浏览器，OS，搜索引擎，设备主机）
 https://netmarketshare.com/
 
 # HostAdvice网络主机市场份额统计排名
