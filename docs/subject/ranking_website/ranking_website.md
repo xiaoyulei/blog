@@ -97,5 +97,7 @@ https://www.statista.com/
 https://gs.statcounter.com/
 
 
-# Hardware for Linux，可以显示各个版本linux的比率(This is a project to anonymously collect hardware details of Linux-powered computers over the world and help people to collaboratively debug hardware related issues, check for Linux-compatibility and find drivers.)
+# Hardware for Linux，可以显示各个版本linux的比率
+This is a project to anonymously collect hardware details of Linux-powered computers over the world and help people to collaboratively debug hardware related issues, check for Linux-compatibility and find drivers.
+
 https://linux-hardware.org/
