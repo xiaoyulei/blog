@@ -101,3 +101,7 @@ https://gs.statcounter.com/
 This is a project to anonymously collect hardware details of Linux-powered computers over the world and help people to collaboratively debug hardware related issues, check for Linux-compatibility and find drivers.
 
 https://linux-hardware.org/
+
+# DistroWatch
+DistroWatch是一个包含了各种Linux发行版及其他自由/开放源代码的类Unix操作系统（如OpenSolaris、MINIX及BSD等）的新闻、人气排名、以及其他一般信息等的网站。它包含了数百种发行版的信息
+https://distrowatch.com/
