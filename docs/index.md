@@ -14,3 +14,5 @@ Just remember someting
 [排名评级网站汇总](subject/ranking_website/ranking_website.md)
 
 [计算机顶会汇总](subject/academic_conference/academic_conference.md)
+
+[俄罗斯网站汇总](subject/rus_website/rus_website.md)
