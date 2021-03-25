@@ -53,6 +53,8 @@ https://www.averagesalarysurvey.com/
 # 学术机构排名
 https://research.webometrics.info/en
 
+http://www.webometrics.info/en
+
 https://www.scimagolab.com/
 
 https://www.scimagojr.com/
