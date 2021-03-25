@@ -69,6 +69,9 @@ https://www.natureindex.com/
 
 https://www.qschina.cn/
 
+# 俄罗斯论文引用排名
+http://expertcorps.ru
+
 # 计算机科学排名(没有俄罗斯)
 http://csrankings.org/
 
