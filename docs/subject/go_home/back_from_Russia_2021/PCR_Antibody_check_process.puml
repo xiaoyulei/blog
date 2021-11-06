@@ -2,66 +2,55 @@
 hide empty description
 
 [*] --> State_3Month_PCR_IGM_IGG
+state "回国前三个月\n做核酸&抗体检测预先检查" as State_3Month_PCR_IGM_IGG
 
-State_3Month_PCR_IGM_IGG : 回国前三个月
-State_3Month_PCR_IGM_IGG : 做核酸&抗体检测预先检查
 
-State_ALL_IS_OK : 全部合格
+state "全部合格" as State_ALL_IS_OK
 State_3Month_PCR_IGM_IGG -> State_ALL_IS_OK
 
-State_7Day_1PCR : 登机前7天
-State_7Day_1PCR : 首次核酸
-State_7Day_1PCR : 开始7日健康监测
-state State_7Day_1PCR #LightGreen
+state "登机前7天\n首次核酸\n开始7日健康监测" as State_7Day_1PCR #LightGreen
 State_ALL_IS_OK -> State_7Day_1PCR : [无既往感染史]
 
-State_48H_PCR_IGM_IGG : 登机前48小时
-State_48H_PCR_IGM_IGG : 第二次核酸&抗体检测
-state State_48H_PCR_IGM_IGG #LightGreen
+state "登机前48小时\n第二次核酸&抗体检测" as State_48H_PCR_IGM_IGG #LightGreen
 State_7Day_1PCR -> State_48H_PCR_IGM_IGG
 
-State_Upload : 全部合格后
-State_Upload : 上传所有报告申请绿码
-state State_Upload #LightGreen
+state "全部合格后\n上传所有报告申请绿码" as State_Upload #LightGreen
 State_48H_PCR_IGM_IGG -> State_Upload
 
-
-State_3Month_XRay : 登机3个月前: 一次胸透
-State_3Month_1PCR : 登机3个月前: 第一次核酸
-State_3Month_2PCR : 登机3个月前: 第二次核酸
+state "登机3个月前\n一次胸透" as State_3Month_XRay
+state "登机3个月前\n第一次核酸" as State_3Month_1PCR
+state "登机3个月前\n第二次核酸" as State_3Month_2PCR
 State_ALL_IS_OK -down-> State_3Month_XRay : [有既往感染史]
 State_3Month_XRay -> State_3Month_1PCR : [胸透后]
 State_3Month_1PCR -> State_3Month_2PCR : [间隔24小时以上]
 State_3Month_2PCR -> State_7Day_1PCR
 
 
-State_IGM_IGG_NOT_OK : IGM、IGG任一项不合格
-State_IGM_IGG_NOT_OK : IGM≥0.4或IGG≥0.49
+state "IGM、IGG任一项不合格\nIGM≥0.4或IGG≥0.49" as State_IGM_IGG_NOT_OK
 State_3Month_PCR_IGM_IGG -down-> State_IGM_IGG_NOT_OK
 
-State_Stay_in_Russia : 暂缓回国
-state State_Stay_in_Russia #LightGray
-State_IGM_IGG_NOT_OK -down-> State_Stay_in_Russia : [IGM不合格 或 无两针疫苗接种记录]
+state "暂缓回国" as State_Stay_in_Russia #LightGray
+State_IGM_IGG_NOT_OK -down-> State_Stay_in_Russia : [IGM不合格\n或\n无两针疫苗接种记录]
 
-State_IGG : IGG不合格
+state "IGG不合格" as State_IGG
 State_IGM_IGG_NOT_OK -> State_IGG : [IGM合格]
 State_IGG -> State_3Month_XRay : [IGG≥1.4]
 
 
-State_14Day_XRay : 登机前14天内: 一次胸透
+state "登机前14天内\n一次胸透" as State_14Day_XRay
 State_IGG -> State_14Day_XRay : [IGG：0.49-1.39之间]
 
-State_14Day_PCR : 登机前14天内: 一次核酸
+state "登机前14天内\n一次核酸" as State_14Day_PCR
 State_14Day_XRay -> State_14Day_PCR
 State_14Day_PCR -down-> State_7Day_1PCR
 
-State_Vaccine : 有两针疫苗接种记录
-State_Try_1Month_Later : 一个月后再申请
-state State_Try_1Month_Later #LightGray
-State_Test_Before_Vaccine : 接种前做过核酸&抗体检测
+state "有两针疫苗接种记录" as State_Vaccine
+state "一个月后再申请" as State_Try_1Month_Later #LightGray
+state "接种前做过核酸&抗体检测" as State_Test_Before_Vaccine
 State_IGG -down-> State_Vaccine
 State_Vaccine -left->State_Try_1Month_Later : [第二针不满一个月]
 State_Vaccine ->State_Test_Before_Vaccine : [第二针满一个月]
 State_Test_Before_Vaccine -up-> State_7Day_1PCR : [可以提供接种前核酸&抗体检测证明]
 State_Test_Before_Vaccine -> State_14Day_XRay : [没有接种前核酸&抗体检测证明]
+
 @enduml
