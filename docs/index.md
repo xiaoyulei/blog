@@ -3,6 +3,8 @@
 Just remember someting
 
 ### Blog List
+[2021年俄罗斯莫斯科回国](subject/go_home/back_from_Russia_2021/back_from_RU_2021.md)
+
 [2020年俄罗斯莫斯科回国总结](subject/backfromRu/backfromRu.md)
 
 [Emacs](subject/emacs/emacs.md)
