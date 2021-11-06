@@ -3,7 +3,7 @@
 Just remember someting
 
 ### Blog List
-[俄罗斯莫斯科回国总结](subject/backfromRu/backfromRu.md)
+[2020年俄罗斯莫斯科回国总结](subject/backfromRu/backfromRu.md)
 
 [Emacs](subject/emacs/emacs.md)
 
