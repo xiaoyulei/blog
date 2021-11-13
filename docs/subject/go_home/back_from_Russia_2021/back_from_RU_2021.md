@@ -19,6 +19,6 @@
 ### CMD检查项 ###
 
 ### Gemotest检查项###
-
+![gemotest](gemotest检查项.png)
 
 
