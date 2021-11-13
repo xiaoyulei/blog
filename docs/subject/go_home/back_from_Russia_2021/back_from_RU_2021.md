@@ -4,7 +4,7 @@
 ![检测流程](http://www.plantuml.com/plantuml/png/ZLPTJzDG6BxlhsWmyS9anC4Im0k27yaa3Z60neGjJSEAB85ksKhCxZPXk0_7G93gjiY6J5294FoWi07_HNjErol_WczJTrPEryKBbfM-p_iyvtcVzy18JEAZqkB2F3CN2Wgii12HucnGYCr4Gn4f51OPPlf6W7MvXjb9YPS4hdyiB4fptAEx4zoeTmn-l4pCUC7seD9xL3f7cRogP5JbCowd_I9A5d55qLFATPoLrVCD_261V-JqdMMKIXlVjsizB1zpRisGvgbzVMaVhQLnfM61tFRvkD59Rlm1uzI21ULKBMcglQlZyXae7a2xd_oY_d4B7rHDlI2zaK1xkG4irr2oXivEjD8wIBTm3zpZuvmRgDXhlj2pESaR5GIHeRY0tbP-Yvt6SWNBE-WYWPUtyVO6AXm7xAeyW-YeWEMVVb4xE53FNe4ukvbMHPx1-zQZqxgi8eWk6jJHSRIswXTL9QisAZYJmEKCpjRGUbRR_DOyFD7gbrebQP7nE38VveCqEqr5HaCGb0FzPeZ028Cx0QTlBYbwec1FpDC9FkwC1VC0Jiopmmq_dE6KztPu7y3jOm-6dujmFfjEO_fWe6twza8AJR9ZkW0ZeK1ahBGu0wJBt_NYPf_7J9HQhy4q0MyhjSUrlOCmjj-990nEhTV1KRrwgYfvCo1-4Lx-ojHkzdfmUWjApEz3RRTQG-SUZazrtzTvOLOoPTXGH0eklj0Q6-QDO-60ppWN4hc9nLWin9C4GZewTQEeA32O1kMM4yB1u4EkgCgk_ZgjRNrfvcIyMjFsyislH-ZyJNk3WOBWhZZWTT0ntAxunsk20qpxzqvXCirsztg0ttQ5k3rmiw6LbEC6kJt6d8rUD9NrBM7wqoWQOtMvU_k7rDCSf2hGbTIwTpIfaIsQXgQcQ-2Ph1QTKvADSiPfH1ODJ_YPcP0ej42WrDnvs2kqaZTlDalvL1HOJEDzy1orPAlLmYI2ywDaiNdviljLFIN49EwEC1kE4Ydj0L17jBudJwtmEiY3SPaN5_W0MSJrAZbXW6uqx2ZfIXkgXoF6jHZf_4SF5GxXui65DVMYHCpgO5FpC8dVhdQZS0WeFgx2yF-dDJCYY47Zdvw_)
 
 ## 回国前CheckList
-| 序号 | 日期 | 证件 | 说明 |
+| 序号 | 日期<img width=200/> | 证件 | 说明 |
 | --- | ---- | ---- | ---- |
 |  1  |      | 护照首页 |   |
 |  2  |      | 移民卡（小白条）；居留登记（落地签） | 其中任何一个都可以 |
