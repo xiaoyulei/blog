@@ -3,7 +3,7 @@
 Just remember someting
 
 ### Blog List
-[2022年俄罗斯莫斯科回国](subject/go_home/back_from_Russia_2022/back_from_RU_2022.md)
+[2022年俄罗斯莫斯科回国](subject/go_home/back_from_Russia_2022/back_from_Russia_2022.md)
 
 [2021年俄罗斯莫斯科回国](subject/go_home/back_from_Russia_2021/back_from_RU_2021.md)
 
