@@ -20,3 +20,5 @@ Just remember someting
 [计算机顶会汇总](subject/academic_conference/academic_conference.md)
 
 [俄罗斯网站汇总](subject/rus_website/rus_website.md)
+
+[编程笔记](subject/code_notes/code_notes.md)
