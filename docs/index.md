@@ -22,3 +22,5 @@ Just remember someting
 [俄罗斯网站汇总](subject/rus_website/rus_website.md)
 
 [编程笔记](subject/code_notes/code_notes.md)
+
+[协会列表](subject/association/association.md)
