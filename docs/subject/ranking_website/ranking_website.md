@@ -42,14 +42,14 @@ https://www.innovation-cities.com/index-2019-global-city-rankings/18842/
 
 https://2thinknow.com/data-analyst-cities/
 
-
-# 城市交通准备指数
+# OliverWyman Forum
+## 城市交通准备指数
 https://www.oliverwymanforum.com/mobility/urban-mobility-readiness-index/ranking.html
 
-# 网络风险素养和教育指数
+## 网络风险素养和教育指数
 https://www.oliverwymanforum.com/cyber-risk/cyber-risk-literacy-education-index.html
 
-# 全球城市 AI 就绪指数
+## 全球城市 AI 就绪指数
 https://www.oliverwymanforum.com/city-readiness/global-cities-ai-readiness-index-2019.html
 
 
