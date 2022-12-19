@@ -122,3 +122,8 @@ https://linux-hardware.org/
 DistroWatch是一个包含了各种Linux发行版及其他自由/开放源代码的类Unix操作系统（如OpenSolaris、MINIX及BSD等）的新闻、人气排名、以及其他一般信息等的网站。它包含了数百种发行版的信息
 
 https://distrowatch.com/
+
+# AI Open Index：AI 2000 全球人工智能学者，会议/期刊排名，人工智能全球女性学者，机构排名，美国高校军事排行榜，城市排名
+AI Open Index是由清华AMiner团队发起的全球人工智能开放平台，是一个以数据为基础构建的全球学术知识图谱，也是一个融合人工智能先进技术的开放平台， 涵盖学术界和产业界。
+
+https://www.aminer.cn/ranks/home
