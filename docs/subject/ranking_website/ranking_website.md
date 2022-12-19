@@ -127,3 +127,7 @@ https://distrowatch.com/
 AI Open Index是由清华AMiner团队发起的全球人工智能开放平台，是一个以数据为基础构建的全球学术知识图谱，也是一个融合人工智能先进技术的开放平台， 涵盖学术界和产业界。
 
 https://www.aminer.cn/ranks/home
+
+
+# AI 华人青年学者榜
+https://xueshu.baidu.com/usercenter/index/aischolar2022
