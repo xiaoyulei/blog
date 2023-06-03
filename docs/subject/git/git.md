@@ -1,3 +1,5 @@
+## git clone加速代理
+```git config --global url."https://ghproxy.com/".insteadOf https://```
 ## git关闭SSL校验设置
 ```git config --global http.sslVerify false```
 ## git设置默认编辑器为VIM
